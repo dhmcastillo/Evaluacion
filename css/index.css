@@ -1,0 +1,89 @@
+.azul{
+    width: 100%;
+    height: 6rem;
+    background-color: rgb(16, 16, 66);
+    margin: 1rem 0  0 1rem;
+}
+.caja-padre{
+    width: 70%;
+    height: auto;
+    margin: 1rem 0  0 1rem;
+}
+.gris-1{
+    width: 47rem;
+    height: 25rem;
+    background-color: rgb(179, 179, 179);
+
+}
+.caja-padre2{
+    width: 70%;
+    height: auto;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.uno, .dos, .tres{
+    width: 15rem;
+    height: 7rem;
+    background-color: rgb(179, 179, 179);
+    margin: 1rem 0 0 1rem ;
+} 
+.caja-padre3{
+    width: 70%;
+    height: auto;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.uno1, .dos2, .tres3{
+    width: 15rem;
+    height: 7rem;
+    background-color: rgb(179, 179, 179);
+    margin: 1rem 0 0 1rem;
+} 
+.caja-padre4{
+    width: 70%;
+    height: auto;
+}
+.uno-1{
+    width: 15rem;
+    height: 7rem;
+    background-color: rgb(179, 179, 179);
+    margin: 0rem 0  0 1rem;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.gris2{
+    width: 31rem;
+    height: 1rem;
+    background-color: rgb(151, 150, 150);
+    margin: 0 0 0.5rem 0.8rem;
+}
+.gris3{
+    width: 31rem;
+    height: 1rem;
+    background-color: rgb(179, 179, 179);
+    margin: 0 0 0.5rem 0.8rem;
+}
+.gris4{
+    width: 6rem;
+    height: 1rem;
+    background-color: rgb(179, 179, 179);
+    margin: 0 0 0.5rem 0.8rem;
+}
+.caja-padre5{
+    width: 20rem;
+    height: 47rem;
+    background-color: rgb(223, 223, 223);
+    margin: 0 0 0 1rem;
+}
+.chat1, .chat2, .chat3, .chat4{
+    width: 15rem;
+    height: 7rem;
+    background-color: rgb(179, 179, 179);
+    margin: 1rem 0 0 3.5rem;
+}
+.chat5{
+    width: 18rem;
+    height: 13rem;
+    background-color: rgb(179, 179, 179);
+    margin: 1rem;
+}
